@@ -78,9 +78,10 @@
 <img width="1277" alt="After" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/c1f20946-fd3d-4cc7-b196-80150ab90020">
 
 ### Phone
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/037dc019-80fb-40b9-a64b-f09d136873fb)
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/72a5523c-8fe4-4c92-8cf2-bbc1d67e4061)
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/9f659105-6e53-4414-9449-df5127512a6c)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/dc034e9e-5347-4627-9b30-c1800d84e555)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/a57ec7d8-b46d-476d-8a8b-83ee4341fc90)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/07327ae4-4650-43a0-991a-be609778f5f4)
+
 
 ### Docker containter running
 <img width="470" alt="image" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/130e720d-58c2-4cff-824b-11dee2296908">
