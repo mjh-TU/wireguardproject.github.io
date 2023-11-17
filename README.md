@@ -3,26 +3,25 @@
 ## Digital Ocean Account
     Went to Digital Ocean and created my account
 ## Set up VM on DO
-    Chose the Ubuntu 23.10 Droplet
+    >Chose the Ubuntu 23.10 Droplet
+    >Gave it the Shared CPU, regular SSD
   
-    Gave it the Shared CPU, regular SSD
-  
-    Chose the 6$ per month option with 
+    >Chose the 6$ per month option with 
       1 GB/1 CPU
       25 GB SSD
       1000 Transfer
-    
-    Installed PuttyGen from here https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html and downloaded the msi file and installed
+      
+    >Installed PuttyGen from here https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html and downloaded the msi file and installed
   
-    Created a Public and Private SSH keys using the puttygen using default settings and also once you click generate and that is done I added a passphrase for added protection
+    >Created a Public and Private SSH keys using the puttygen using default settings and also once you click generate and that is done I added a passphrase for added protection
   
-    Then copied the public ssh key to the Digital Ocean site where it specifies it for your new machine so you can connect
+    >Then copied the public ssh key to the Digital Ocean site where it specifies it for your new machine so you can connect
   
-    Then Created the machine
+    >Then Created the machine
   
-    Put the machine IP on putty and added the private key under the Connection->SSH->Auth, I put the user root in the section Connection->Data on putty as well
+    >Put the machine IP on putty and added the private key under the Connection->SSH->Auth, I put the user root in the section Connection->Data on putty as well
   
-    I then started the connection and entered my passphrase and was able to connect to the machine
+    >I then started the connection and entered my passphrase and was able to connect to the machine
   
 ## Install docker and wireguard
   
