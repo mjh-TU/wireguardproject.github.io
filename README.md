@@ -50,16 +50,27 @@
     docker-compose
 
   Used the Instructions for Wireguard Install https://thematrix.dev/setup-wireguard-vpn-server-with-docker/
+  
     Did not want to put the wireguard directory in root per the instructions putting it in home directory so I made a new directory in the home folder
+      
       mkdir -p wireguard
+      
       mkdir -p wireguard/config
+    
     Created new file called docker-compose.yml for wireguard
+    
       vim wireguard/config/docker-compose.yml
+    
     Pasted the contents from the website to the yml file
+    
     When you past the contents be sure to check and change the Timezone and Peers for what you desire
+    
       I changed the timezone to America/Chicago by adding that to the file
+      
       I changed peers=1 so I only have one user config
+  
   Entered the directory where the docker-compose.yml is located and ran the command
+  
     docker-compose up -d
 
   
