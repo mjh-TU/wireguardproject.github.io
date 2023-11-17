@@ -81,14 +81,14 @@
     Install wireguard on your laptop
     To set up on my laptop I copied the contents of the conf file and pasted it into the wireguard application and named it
 
-    Laptop
-      <img width="1273" alt="before" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/f4950170-a8ed-4825-821e-fcb7d0f9a198">
-      <img width="1277" alt="After" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/c1f20946-fd3d-4cc7-b196-80150ab90020">
+## Laptop
+<img width="1273" alt="before" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/f4950170-a8ed-4825-821e-fcb7d0f9a198">
+<img width="1277" alt="After" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/c1f20946-fd3d-4cc7-b196-80150ab90020">
 
-    Phone
-      ![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/037dc019-80fb-40b9-a64b-f09d136873fb)
-      ![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/72a5523c-8fe4-4c92-8cf2-bbc1d67e4061)
-      ![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/9f659105-6e53-4414-9449-df5127512a6c)
+## Phone
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/037dc019-80fb-40b9-a64b-f09d136873fb)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/72a5523c-8fe4-4c92-8cf2-bbc1d67e4061)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/9f659105-6e53-4414-9449-df5127512a6c)
 
 
 
