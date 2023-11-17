@@ -80,13 +80,14 @@
 
 
 ### Phone
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/dc034e9e-5347-4627-9b30-c1800d84e555)
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/a57ec7d8-b46d-476d-8a8b-83ee4341fc90)
-![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/07327ae4-4650-43a0-991a-be609778f5f4)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/b0c5b582-4f56-4976-8243-8a70d474ed2b)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/53f97da9-df57-4666-8930-8781a7f54463)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/6bd78589-2629-43a6-ae0a-8f2c51fe1cff)
+
 
 
 ### Docker containter running
-<img width="470" alt="image" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/130e720d-58c2-4cff-824b-11dee2296908">
+<img width="470" alt="image" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/d01bf2aa-5c4c-4086-9571-121cc950b7cf">
 
 
 
