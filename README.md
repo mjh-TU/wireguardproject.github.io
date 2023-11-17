@@ -74,8 +74,9 @@
     To set up on my laptop I copied the contents of the conf file and pasted it into the wireguard application and named it
 
 ### Laptop
-<img width="1273" alt="before" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/f4950170-a8ed-4825-821e-fcb7d0f9a198">
-<img width="1277" alt="After" src="https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/c1f20946-fd3d-4cc7-b196-80150ab90020">
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/616fec19-9d2f-480e-abf0-f907573df83a)
+![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/05bfba99-f203-4684-b8e4-56a550cdf513)
+
 
 ### Phone
 ![image](https://github.com/mjh-TU/wireguardproject.github.io/assets/124700981/dc034e9e-5347-4627-9b30-c1800d84e555)
